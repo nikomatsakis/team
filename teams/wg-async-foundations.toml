@@ -5,6 +5,7 @@ wg = true
 leads = ["nikomatsakis", "tmandry"]
 members = [
   "nikomatsakis",
+  "bIgBV",
   "cramertj",
   "tmandry",
   "withoutboats",
